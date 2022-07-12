@@ -1,0 +1,22 @@
+body{
+    background-color: #010203;
+}
+p{
+    color: white;
+}
+.lamp{
+    margin-left: 50%;
+}
+.on{
+    visibility: visible;
+    position: absolute;
+}
+.off{
+    position: absolute;
+    visibility: hidden;
+}
+
+.btn{
+    margin-top: 350px;
+    margin-left: 100px;
+}
